@@ -1,0 +1,10 @@
+/gen
+/bin
+/release
+/build
+/gradle.properties
+*.iml
+app/build/
+.idea/
+.gradle/
+local.properties
